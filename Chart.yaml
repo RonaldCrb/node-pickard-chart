@@ -1,0 +1,8 @@
+apiVersion: v2
+name: node-pickard
+description: A helm chart for node-pickard
+type: application
+version: 0.1.0
+appVersion: 1.16.0
+maintainer: Ron Alonzo <alonzo.ronald@gmail.com>
+icon: https://banner2.cleanpng.com/20180821/sbr/kisspng-node-js-javascript-website-development-express-js-weekly-2-5b7c78fc10ada7.0867356815348840920683.jpg
